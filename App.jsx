@@ -493,4 +493,5 @@ export default function CajaControlPro() {
     </div>
   );
 }
-
+javascript
+export default CajaControlPro;
