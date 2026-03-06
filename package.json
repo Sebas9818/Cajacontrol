@@ -1,6 +1,6 @@
-```
 
-```json
+
+json
 {
   "name": "cajacontrol",
   "version": "1.0.0",
@@ -40,6 +40,6 @@
     "@types/react-dom": "^18.0.0"
   }
 }
-```
 
-```
+
+
