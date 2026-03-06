@@ -494,4 +494,4 @@ export default function CajaControlPro() {
   );
 }
 javascript
-export default CajaControlPro;
+export default CajaControlPro
