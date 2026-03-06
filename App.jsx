@@ -1,4 +1,4 @@
-```javascript
+javascript
 import React, { useState, useRef } from 'react';
 import { Plus, TrendingUp, TrendingDown, BarChart3, PieChart, Calendar, Trash2, Download, Upload, Eye, EyeOff } from 'lucide-react';
 import { LineChart, Line, AreaChart, Area, BarChart, Bar, PieChart as PieChartComponent, Pie, Cell, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer, ScatterChart, Scatter, ComposedChart } from 'recharts';
@@ -493,4 +493,4 @@ export default function CajaControlPro() {
     </div>
   );
 }
-```
+
